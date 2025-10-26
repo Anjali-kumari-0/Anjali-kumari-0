@@ -1,57 +1,58 @@
-<h1 align="center">Hi 👋, I'm Anjali Kumari</h1>
-<h3 align="center">A passionate Web developer and Software developer from India</h3>
+# 👋 Hi, I'm Anjali Kumar
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anjali-kumari-0&label=Profile%20views&color=0e75b6&style=flat" alt="anjali-kumari-0" /> </p>
+🚀 **Full stack Developer | React Enthusiast | Creative Designer | MERN stack**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anjali-kumari-0" alt="anjali-kumari-0" /></a> </p>
+I love building beautiful, interactive, and performant web experiences.  
+Currently exploring modern React ecosystems, UI animations, and full-stack magic. ✨
 
-<p align="left"> <a href="https://twitter.com/@rajwar_anjali" target="blank"><img src="https://img.shields.io/twitter/follow/@rajwar_anjali?logo=twitter&style=for-the-badge" alt="@rajwar_anjali" /></a> </p>
+---
 
-- 🔭 I’m currently working on **my Organization's website**
+### 🧠 About Me
+- 🎨 Passionate about **modern UI/UX** and **responsive design**
+- ⚛️ Skilled in **React**, **Tailwind CSS**, **Framer Motion**, and **Next.js**
+- 🌙 Love exploring **dark mode**, **micro-interactions**, and creative coding
+- 💼 Currently building projects that combine **aesthetic + performance**
+- 💬 Ask me about frontend development or creative design tips!
 
-- 🌱 I’m currently learning **Python**
+---
 
-- 👯 I’m looking to collaborate on **Content Creators**
+### 🛠️ Tech Stack
 
-- 💬 Ask me about **C , PHP , web devlopment**
+| Category | Tools |
+|-----------|--------|
+| **Languages** | JavaScript (ES6+), TypeScript, HTML, CSS |
+| **Frontend** | React.js, Next.js, Tailwind CSS, Redux, Framer Motion |
+| **Backend** | Node.js, Express.js, MongoDB (basic) |
+| **Design Tools** | Figma, Canva, Adobe XD |
+| **Other** | Git, GitHub, VS Code |
 
-- 📫 How to reach me **anjalirajwar222@gmail.com**
+---
 
-- 📄 Know about my experiences [file:///C:/Users/user/Downloads/Anjali_Kumari_resume.pdf](file:///C:/Users/user/Downloads/Anjali_Kumari_resume.pdf)
+### 🌌 Featured Projects
+🌠 [**Portfolio Website**](https://anjali-portfolio-wheat.vercel.app/)
+A sleek developer portfolio built with React, TailwindCSS, and 3D Galaxy animation.
 
-- ⚡ Fun fact **when I start listing music then I start doing dance**
+💼 [**Chat App**](https://github.com/yourusername/project2)  
+Short description of what it does and why it’s awesome.
 
-<h3 align="left">Connect with me:</h3>
+---
+
+<!--### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" height="150" />
+</p> -->
+
+---
+
+### 🤝 Connect With Me
 <p align="left">
-  <ul>
-    
-<!-- <li><a href="https://twitter.com/@rajwar_anjali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="@rajwar_anjali" height="30" width="40" />
-</a>
-</li> -->
-  
-<li>
-  <a href="https://www.linkedin.com/in/anjaliannie06/" target="blank">
-   <img align="center" src="https://icons8.com/icon/13930/linkedin" alt="https://www.linkedin.com/in/anjaliannie06/" height="30" width="40" />
- </a>
-</li>
+  <a href="mailto:anjalirajwar222@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/anjaliannie06/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <!-- <a href="https://twitter.com/yourtwitter"><img src="https://img.shields.io/badge/-Twitter-%231DA1F2.svg?style=flat-square&logo=twitter&logoColor=white"/></a> -->
+  <a href="https://anjali-portfolio-wheat.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-%23ff69b4?style=flat-square&logo=vercel&logoColor=white"/></a>
+</p>
 
+---
 
-
-<!-- <a href="https://instagram.com/annie_rajwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="annie_rajwar" height="30" width="40" />
-</a> -->
-
-<!-- <a href="https://www.youtube.com/c/anjali kumari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/youtube.svg" alt="anjali kumari" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/annie_60" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="annie_60" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/anjalirajwar101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/hackerrank.svg" alt="anjalirajwar101" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/annie_60" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="annie_60" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/anjalirajwar101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/geeks-for-geeks.svg" alt="anjalirajwar101" height="30" width="40" /></a> -->
-</ul></p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anjali-kumari-0&show_icons=true&locale=en&layout=compact" alt="anjali-kumari-0" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anjali-kumari-0&show_icons=true&locale=en" alt="anjali-kumari-0" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anjali-kumari-0&" alt="anjali-kumari-0" /></p>
+⭐ From [Anjali Kumar](https://github.com/YOUR_GITHUB_USERNAME)
